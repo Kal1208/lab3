@@ -1,0 +1,49 @@
+CRITICAL - 2023-03-06 13:54:00 --> Call to undefined method App\Models\NewsModel::getNews
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\News.php(14): CodeIgniter\Model->__call('getNews', [])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\News->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-06 13:54:58 --> Call to undefined method App\Models\NewsModel::getNews
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\News.php(14): CodeIgniter\Model->__call('getNews', [])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\News->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-06 13:59:51 --> Call to undefined method App\Models\NewsModel::getNews
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\News.php(14): CodeIgniter\Model->__call('getNews', [])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\News->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-06 14:00:14 --> Call to undefined method App\Models\NewsModel::getNews
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\News.php(14): CodeIgniter\Model->__call('getNews', [])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\News->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-06 14:05:07 --> Call to undefined method App\Models\NewsModel::getNews
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\News.php(13): CodeIgniter\Model->__call('getNews', [])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\News->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-06 14:05:08 --> Call to undefined method App\Models\NewsModel::getNews
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\News.php(13): CodeIgniter\Model->__call('getNews', [])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\News->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-06 14:05:08 --> Call to undefined method App\Models\NewsModel::getNews
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\News.php(13): CodeIgniter\Model->__call('getNews', [])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\News->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
